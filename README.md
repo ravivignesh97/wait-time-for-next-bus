@@ -20,6 +20,11 @@ Input information requires Bus Route, Bus Stop, Direction
 - Stops API : https://svc.metrotransit.org/NexTrip/Stops/9/1?format=json
 - WaitTime API : https://svc.metrotransit.org/NexTrip/9/1/HEBE?format=json
 
+# Assumptions
+- User aware of route name if not please take the anyone of the description from the 
+  https://svc.metrotransit.org/NexTrip/Routes?format=json 
+- User aware of stop name information
+- Direction can be provided only from this list [south, north, east, west]
 
 
 # Creating pyenv
