@@ -1,0 +1,33 @@
+
+
+-----------Input request information-------
+Route: METRO Blue line
+Stop: Target Field Station Platform 1
+Direction: north
+Wait Time : 2 Minutes
+------Script completed--------
+
+
+
+
+
+-----------Input request information-------
+Route: Route 9
+Stop: Hedberg Dr and Greenbrier Rd
+Direction: west
+Wait Time : 13 Minutes
+------Script completed--------
+
+
+
+
+
+-----------Input request information-------
+Route: Northstar Commuter Rail
+Stop: Target Field Station
+Direction: north
+Wait Time : No bus available today for the destination
+------Script completed--------
+
+
+
