@@ -51,7 +51,6 @@ class TestWaitTimeForNextBus(unittest.TestCase):
 
     def test_invalid_nextbusinfo(self):
         response=nextbus.nextbusinfo("METRO Blue line","Target Field Station Platform 1",'west')
-        print(response)
         self.assertEqual(response, "Response: direction not found")
 
 

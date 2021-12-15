@@ -2,6 +2,8 @@
 wait time for next bus
 
 
+This script returns the information about the Next Bus wait time in minutes. This scripts depends on external service (https://svc.metrotransit.org/NexTrip)
+
 
 # Creating pyenv
 
@@ -46,7 +48,7 @@ python3 -m unittest test_nextbus
 
 
 
-# Core APIs
+# Core APIs Backend are from External Service
 
 Core API 
 https://svc.metrotransit.org/NexTrip/Routes?format=json
