@@ -52,13 +52,19 @@ python3 nextbus.py "Route 9" "Hedberg Dr and Greenbrier Rd" "west"
 
 ```
 ./runscript.sh > output-sample.txt &
-# sample output found in output-sample.txt
 ```
+
+## Output
+[output-sample.txt](output-sample.txt)
+
 
 # Run unit testing 
 ```
 python3 -m unittest test_nextbus
 ```
+## Output of Unit tests
+[test-output-sample.txt](test-output-sample.txt)
+
 
 
 
